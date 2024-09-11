@@ -1,0 +1,8 @@
+ami:
+   username: admin
+   password: LpDpgMr7egiM
+   host: 172.30.11.205
+   port: 5038
+   events: on
+messagebus:
+   url: nats://ws:CT9dBy8zTD3yfxYL3cR3nJ@nats.callevo.net:4222
